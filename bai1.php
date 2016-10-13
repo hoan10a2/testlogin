@@ -17,3 +17,14 @@ $conn = mysql_connect("$dbhost", "$username","$password") ;
 
 
  ?>
+
+
+ <!DOCTYPE html>
+ <html>
+ <head>
+ 	<title></title>
+ </head>
+ <body>
+ 
+ </body>
+ </html>
